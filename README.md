@@ -7,6 +7,7 @@ This is the code of the paper: [Unsupervised Learning and Exploration of Reachab
 ---
 
 This is the containerized version of the TAXONS codebase. This way there is no need to install any dependency.
+
 **It requires [Singularity](https://sylabs.io/docs/)**
 
 For the non containerized version, visit: https://github.com/GPaolo/taxons
